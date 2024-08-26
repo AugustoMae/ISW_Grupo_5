@@ -93,3 +93,6 @@ Se define la línea base inicial con un listado de los items de configuración, 
 ## Criterio de línea base general
 Se define una nueva línea base por cada parcial.
 
+## Link del repositorio
+
+https://github.com/AugustoMae/ISW_Grupo_5
