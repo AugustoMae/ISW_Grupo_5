@@ -1,4 +1,4 @@
-# ISW_G5_2024
+# ISW_Grupo_5
 
 Repositorio para control de versiones de los items de configuracion para la catedra "Ingenieria y Calidad de Software" 4K1 2024. 
 Grupo: 5
