@@ -67,7 +67,7 @@ ISW_Grupo_5
 | Item  | Regla de nombrado   | Ubicacion    |
 |:----------: |:----------:| :----------:|
 | Diapositivas  | [Numero]_[Tema].[extension]   | ISW_Grupo_5/Unidades/[U[Numero_Unidad]_[Nombre_Unidad]/Diapositivas/ | 
-| Apuntes de clase  | [Fecha].[extension]   | ISW_Grupo_5/Unidades/[U[Numero_Unidad]_[Nombre_Unidad]/Apuntes_Clase/ | 
+| Apuntes de clase  | [DDMM].[extension]   | ISW_Grupo_5/Unidades/[U[Numero_Unidad]_[Nombre_Unidad]/Apuntes_Clase/ | 
 | Trabajos conceptuales  | TP_[Numero_TP]_[Titulo].[extension]   | ISW_Grupo_5/Trabajos/Conceptuales/ |
 | Trabajos practicos    | TP_[Numero_TP]_[Titulo].[extension]   | ISW_Grupo_5/Trabajos/Practicos/ |
 | Modalidad  | Modalidad.[extension]   | ISW_Grupo_5/Material_Academico/ |
@@ -84,6 +84,7 @@ ISW_Grupo_5
 |SW | Software |
 |LA | Lean-Agile|
 |CPP | Calidad de Proceso y de Producto |
+|DDMM | Formato de Fecha Dia/Mes|
 |G5 | Grupo 5|
 
 
