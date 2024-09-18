@@ -88,9 +88,6 @@ ISW_Grupo_5
 |G5 | Grupo 5|
 
 
-## Criterio de línea base inicial
-Se define la línea base inicial con el documento de gestion de configuracion incluyendo el listado de los items de configuración, el glosario y la estructura del repositorio.
-Tambien, se añaden archivos iniciales disponibles hasta la fecha de entrega.
 
 ## Criterio de línea base general
 Se define una nueva línea base por cada parcial.
