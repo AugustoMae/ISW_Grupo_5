@@ -80,6 +80,7 @@ ISW_Grupo_5
 |:---:|:---:|
 |TP| Trabajo Práctico|
 |U | Unidad|
+|Numero_TP| Numero de Trabajo Practico |
 |ISW | Ingeniería y Calidad de Software|
 |SW | Software |
 |LA | Lean-Agile|
