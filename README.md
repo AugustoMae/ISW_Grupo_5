@@ -69,7 +69,7 @@ ISW_Grupo_5
 |[Nombre_Unidad]| Nombre de la unidad correspondiente|
 
 ## Criterio de línea base general
-Se define una nueva línea base luego de cada parcial evaluativo rendido. Este criterio nos permite tener un punto de referencia con respecto al progreso de cada materia
+Se define una nueva línea base luego de cada parcial evaluativo rendido. Este criterio nos permite tener un punto de referencia con respecto al progreso de la materia
 
 ## Link del repositorio
 
