@@ -41,8 +41,8 @@ ISW_Grupo_5
 |:----------: |:----------:| :----------:|
 | Diapositivas  | [Numero_Diapostiva]_[Tema_Diapositiva].[pdf]   | ISW_Grupo_5/Unidades/[U[Numero_Unidad]_[Nombre_Unidad]/Diapositivas/ | 
 | Apuntes de clase  | [DDMM].[docx/pdf/jpg]   | ISW_Grupo_5/Unidades/[U[Numero_Unidad]_[Nombre_Unidad]/Apuntes_Clase/ | 
-| Trabajos conceptuales  | TP_[Numero_TP]_[Titulo_TP].[pdf]   | ISW_Grupo_5/Trabajos/Conceptuales/ |
-| Trabajos practicos evaluables    | TP_[Numero_TP]_[Titulo_TP].[pdf]   | ISW_Grupo_5/Trabajos/Practicos/ |
+| Trabajos conceptuales  | TP_[Numero_TP]_[Titulo_TP].[pdf/xslx]   | ISW_Grupo_5/Trabajos/Conceptuales/ |
+| Trabajos practicos evaluables    | TP_[Numero_TP]_[Titulo_TP].[pdf/xslx]   | ISW_Grupo_5/Trabajos/Practicos/ |
 | Modalidad  | Modalidad.[pdf]   | ISW_Grupo_5/Material_Academico/ |
 | Cronograma  | Cronograma.[xslx]   | ISW_Grupo_5/Material_Academico/ |
 | Bibliografia | [Nombre_Bibliografia].[pdf] | ISW_Grupo_5/Bibliografia/[Tema_Bibliografia]/ 
